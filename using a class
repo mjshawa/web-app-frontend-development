@@ -16,3 +16,30 @@ css
 #intro h2 {
   color: #04AA6D;
 }
+
+#2nd
+
+  <article class="story">
+    <h1>A Future with HTML & CSS</h1>
+    <p class="lead">Learn once, build everywhere.</p>
+    <p>We explore accessible patterns, responsive layouts, and component libraries.</p>
+  </article>
+#css
+article.story {
+  max-width: 680px;
+  margin: 80px auto;
+  padding: 0 24px;
+}
+article.story h1 {
+  font-size: 2.75rem;
+  line-height: 1.15;
+  margin-bottom: 12px;
+}
+article.story .lead {
+  font-size: 1.25rem;
+  color: #4b5563;
+  margin-bottom: 24px;
+}
+article.story p {
+  line-height: 1.8;
+}
