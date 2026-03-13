@@ -1,0 +1,13 @@
+#website structure, static website
+
+my-website/
+  index.html
+  about.html
+  css/
+    styles.css
+    utilities.css
+  images/
+    logo.svg
+  components/
+    header.html
+    footer.html
